@@ -96,7 +96,7 @@
         },
         {
           "id": 9,
-          "name": "Emmanuel Petit",
+          "name": "Emmanuel petit",
           "rating": 100,
           "position": "CMF",
           "cardType": "EPIC",
@@ -119,7 +119,7 @@
             { "label": "Curl", "value": 76 },
             { "label": "Defensive Awareness", "value": 91 },
             { "label": "Tackling", "value": 88 },
-            { "label": "Speed", "value": 87 },
+            { "label": "Speed", "value": 90 },
             { "label": "Acceleration", "value": 87 },
             { "label": "Kicking Power", "value": 89 },
             { "label": "Jumping", "value": 74 },
@@ -127,6 +127,42 @@
             { "label": "Balance", "value": 76 },
             { "label": "Stamina", "value": 94 }
           ]
+          {
+        },
+        "id": 10,
+          "name": "Dennis Bergkamp",
+          "rating": 93,
+          "position": "SS",
+          "cardType": "EPIC",
+          "imageName": "",
+          "imageUrl": "https://efimg.com/efootballhub22/images/player_cards/88046292831706_l.png",
+          "nationality": "Netherlands 🇳🇱",
+          "eraClub": "Netherlands National Team (1995–2006)",
+          "playstyle": "Creative Playmaker & Front Line Poacher",
+          "specialSkill": "Magnetic Feet, Phenomenal Pass",
+          "stats": [
+            { "label": "Offensive Awareness", "value": 91 },
+            { "label": "Ball Control", "value": 105 },
+            { "label": "Dribbling", "value": 103 },
+            { "label": "Tight Possession", "value":  103},
+            { "label": "Low Pass", "value": 96 },
+            { "label": "Lofted Pass", "value": 90 },
+            { "label": "Finishing", "value": 90 },
+            { "label": "Heading", "value": 67 },
+            { "label": "Place Kicking", "value": 78 },
+            { "label": "Curl", "value": 88 },
+            { "label": "Defensive Awareness", "value": 46 },
+            { "label": "Tackling", "value": 45 },
+            { "label": "Aggression", "value": 51 },
+            { "label": "Defensive Engagement", "value": 47 },
+            { "label": "Speed", "value": 87 },
+            { "label": "Acceleration", "value": 86 },
+            { "label": "Kicking Power", "value": 90 },
+            { "label": "Jumping", "value": 65 },
+            { "label": "Physical Contact", "value": 86 },
+            { "label": "Balance", "value": 84 },
+            { "label": "Stamina", "value": 94 }
+         ]
         }
       ]
     },
